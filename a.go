@@ -2,5 +2,5 @@ package a
 
 // Test ...
 func Test() int {
-	return 2
+	return 5
 }
